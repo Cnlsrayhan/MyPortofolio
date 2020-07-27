@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="207" height="53.5" viewBox="0 0 207 53.5">
+  <defs>
+    <filter id="RAYHAN_A" x="0" y="0" width="207" height="53.5" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-252.5 -182)">
+    <g transform="matrix(1, 0, 0, 1, 252.5, 182)" filter="url(#RAYHAN_A)">
+      <text id="RAYHAN_A-2" data-name="RAYHAN A" transform="translate(3.5 21)" fill="#222" font-size="25" font-family="HoboStd, Hobo Std" letter-spacing="0.3em"><tspan x="0" y="0">RAYHAN </tspan><tspan y="0" fill="#e9b949">A</tspan></text>
+    </g>
+  </g>
+</svg>
